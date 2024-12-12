@@ -253,24 +253,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cedua\\.nuget\\packages\\": {}
+    "C:\\Users\\dmarq\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cedua\\OneDrive\\Área de Trabalho\\ContaBancariaConsoleTestUnitario\\SistemaBancarioConsole\\SistemaBancarioConsole.csproj",
+      "projectUniqueName": "C:\\Users\\dmarq\\Desktop\\ContaBancariaConsoleTest\\SistemaBancarioConsole\\SistemaBancarioConsole.csproj",
       "projectName": "SistemaBancarioConsole",
-      "projectPath": "C:\\Users\\cedua\\OneDrive\\Área de Trabalho\\ContaBancariaConsoleTestUnitario\\SistemaBancarioConsole\\SistemaBancarioConsole.csproj",
-      "packagesPath": "C:\\Users\\cedua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cedua\\OneDrive\\Área de Trabalho\\ContaBancariaConsoleTestUnitario\\SistemaBancarioConsole\\obj\\",
+      "projectPath": "C:\\Users\\dmarq\\Desktop\\ContaBancariaConsoleTest\\SistemaBancarioConsole\\SistemaBancarioConsole.csproj",
+      "packagesPath": "C:\\Users\\dmarq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dmarq\\Desktop\\ContaBancariaConsoleTest\\SistemaBancarioConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cedua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dmarq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
